@@ -1,9 +1,1 @@
 Adding file2 in main
-
-
-New line has been added vi br1 branch
-
-
-
-Again Added new line for commit 2 in the same branch br 1 
-New line has been added vi br1 branch 
